@@ -6,6 +6,6 @@ public interface UserDao {
 	
 	void delete();
 	
-	void editUser();
+	void findUser();
 	
 }
